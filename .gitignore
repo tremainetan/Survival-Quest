@@ -1,0 +1,10 @@
+#Visual Studio Code 
+.vsconfig
+.vs/
+*.csproj
+*.sln
+
+#Unity Unecessary Folders
+Library/**
+Logs/**
+obj/**
